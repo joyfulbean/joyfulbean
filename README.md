@@ -44,3 +44,5 @@ Here are some ideas to get you started:
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joyfuldeveloper4@gmail.com)](mailto:joyfuldeveloper4@gmail.com)
 	
 </div>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joyfulbean&repo=MOA-APP)](https://github.com/joyfulbean/MOA-APP)
