@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ## Introduction
 	
-* CHANGE MYSELF, CHANGE THE WORLD! <br>
+* 나의 변화가 세상을 바꾸는 시작이라고 믿기에 매순간 성장함에 기쁜 저는 개발자 강예빈 입니다. <br>
 * I'm Yebin Kang, who is interested in APP Service with ML. 
 
 ## Work Experience 
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 * Pytorch, Flask, SQLAlchemy, MySQL, C++, Python, Java<br>
 * Problem Solving with Python/C++                   
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joyfulbean&show_icons=true&theme=dracula)](https://github.com/joyfulbean/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joyfulbean&show_icons=true&theme=react)](https://github.com/joyfulbean/github-readme-stats)
 
 
 <div align=center>
