@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 * DeepBio Internship 2020.12 ~ 2020.2
 * People Space in Irvine Internship 2020.1 ~ 2020.2
 
-## Tech Stat ✨
+## ✨ Tech Stat ✨
 <div align=center text="Tech Stat">
 <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/androidstudio-03DDC84?style=flat-square&logo=android studio&logoColor=white"/></a>
