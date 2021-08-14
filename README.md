@@ -50,17 +50,8 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c++&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/></a>
-</div>                
+</div><br>
 
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joyfulbean&show_icons=true&theme=react)](https://github.com/joyfulbean/github-readme-stats)
-
-
-<div align=center>
-
-[![Notion Badge](http://img.shields.io/badge/-Resume-black?style=flat-square&logo=notion&link=https://joyfulbean.notion.site/6547b1cefdbb4e7ba21486c8e132d697)](https://joyfulbean.notion.site/6547b1cefdbb4e7ba21486c8e132d697)
-[![Tstory Badge](http://img.shields.io/badge/-Tech%20Blog-20C997?style=flat-square&link=https://joyfulbean.tistory.com/)](https://joyfulbean.tistory.com/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joyfuldeveloper4@gmail.com)](mailto:joyfuldeveloper4@gmail.com)
-	
-</div>
