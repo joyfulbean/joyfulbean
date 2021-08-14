@@ -30,10 +30,8 @@ Here are some ideas to get you started:
 
 <div align=center>
 ## Tech Stat
-<img src="https://img.shields.io/badge/pytorch-#EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/pytorch-#EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/pytorch-20c997?style=flat-square&logo=pytorch&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/pytorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/></a>
 	
 * Pytorch, Flask, SQLAlchemy, MySQL, C++, Python, Java<br>   
 </div>                
