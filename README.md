@@ -15,26 +15,26 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-##🌱Introduction
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjoyfulbean%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+## Introduction
 	
 * CHANGE MYSELF, CHANGE THE WORLD! <br>
 * I'm Yebin Kang, who is interested in APP Service with ML. 
 
-##🤔Work Experience 
+## Work Experience 
 
 * Deep Learning Lab 2020.02 ~ 
 * DeepBio Internship 2020.12 ~ 2020.2
 * People Space in Irvine Internship 2020.1 ~ 2020.2
 
-##🛠Tech Stack
+## Tech Stat
 <img src="https://img.shields.io/badge/pytorch-#792EE5?style=flat-square&logo=pytorch&logoColor=white"/></a>
 	
 * Pytorch, Flask, SQLAlchemy, MySQL, C++, Python, Java<br>
-* Problem Solving with Python/C++
+* Problem Solving with Python/C++                   
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)                    
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joyfulbean)](https://github.com/joyfulbean/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joyfulbean&show_icons=true&theme=dracula)](https://github.com/joyfulbean/github-readme-stats)
 
 
 <div align=center>
