@@ -33,9 +33,9 @@ Here are some ideas to get you started:
 ## Tech Stat
 <div align=center text="Tech Stat">
 <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/androidstudio-03DDC84?style=flat-square&logo=androidstudio&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/android studio-03DDC84?style=flat-square&logo=android studio&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/flask-000000?style=flat-square&logo=flask&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/aws-232F3E?style=flat-square&logo=aws&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/amazon aws-232F3E?style=flat-square&logo=amazon aws&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/sqlite-003B57?style=flat-square&logo=sqlite&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/postgresql-4169E1?style=flat-square&logo=postgresql&logoColor=white"/></a>
