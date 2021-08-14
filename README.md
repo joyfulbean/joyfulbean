@@ -27,14 +27,14 @@ Here are some ideas to get you started:
 * People Space in Irvine Internship 2020.1 ~ 2020.2
 
 🛠Tech Stack
-<img src="https://img.shields.io/badge/Pytorch-#792EE5?style=flat-square&logo=PyTorch&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/pytorch-#792EE5?style=flat-square&logo=pytorch&logoColor=white"/></a>
 	
 * Pytorch, Flask, SQLAlchemy, MySQL, C++, Python, Java<br>
 * Problem Solving with Python/C++
 	
 <div align=center>
 
-[![Notion Badge](http://img.shields.io/badge/-Resume-black?style=flat-square&logo=notion&link=https://guiltless-operation-40b.notion.site/6547b1cefdbb4e7ba21486c8e132d697)]
+[![Notion Badge](http://img.shields.io/badge/-Resume-black?style=flat-square&logo=notion&link=https://joyfulbean.notion.site/6547b1cefdbb4e7ba21486c8e132d697)](https://joyfulbean.notion.site/6547b1cefdbb4e7ba21486c8e132d697)
 [![Tstory Badge](http://img.shields.io/badge/-Tech%20Blog-20C997?style=flat-square&link=https://joyfulbean.tistory.com/)](https://joyfulbean.tistory.com/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joyfuldeveloper4@gmail.com)](mailto:joyfuldeveloper4@gmail.com)
 	
