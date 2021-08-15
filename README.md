@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 ## Work Experience 🔭
 
 * Deep Learning Lab 2020.02 ~ 
-* DeepBio Internship 2020.12 ~ 2020.2
+* DeepBio Internship 2020.12 ~ 2021.2
 * People Space in Irvine Internship 2020.1 ~ 2020.2
 
 ## ✨ Tech Stat ✨
