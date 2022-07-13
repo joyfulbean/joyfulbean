@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 
 <div align=center>
 
-[![Notion Badge](http://img.shields.io/badge/-Resume-black?style=flat-square&logo=notion&link=https://joyfulbean.notion.site/6547b1cefdbb4e7ba21486c8e132d697)](https://joyfulbean.notion.site/6547b1cefdbb4e7ba21486c8e132d697)
-[![Tstory Badge](http://img.shields.io/badge/-Tech%20Blog-20C997?style=flat-square&link=https://joyfulbean.tistory.com/)](https://joyfulbean.tistory.com/)
+[![Notion Badge](http://img.shields.io/badge/-Resume-black?style=flat-square&logo=notion&link=https://velog.io/@joyfulbean/about)](https://velog.io/@joyfulbean/about)
+[![Tstory Badge](http://img.shields.io/badge/-Tech%20Blog-20C997?style=flat-square&link=https://velog.io/@joyfulbean)](https://velog.io/@joyfulbean)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joyfuldeveloper4@gmail.com)](mailto:joyfuldeveloper4@gmail.com)
 	
 </div>
@@ -29,11 +29,12 @@ Here are some ideas to get you started:
 ## Introduction [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjoyfulbean%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 	
 * 나의 변화가 세상을 바꾸는 시작이라고 믿기에 매순간 성장함에 기쁜 저는 개발자 강예빈 입니다! <br>
-* I'm Yebin Kang, who is interested in Backend!!!
+* I'm Yebin Kang, who is interested in DevOps Engineering !!!
 
 ## Work Experience 🔭
 
-* Deep Learning Lab 2020.03 ~ 
+* LG U+ 2021.9 ~
+* Deep Learning Lab 2020.03 ~ 2021.9
 * DeepBio Internship 2020.12 ~ 2021.2
 * People Space in Irvine Internship 2020.1 ~ 2020.2
 
