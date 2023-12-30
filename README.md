@@ -57,4 +57,11 @@ Here are some ideas to get you started:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joyfulbean&show_icons=true&theme=react)](https://github.com/joyfulbean/github-readme-stats)
 
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joyfulbean&exclude_repo=null&layout=compact&theme=tokyonight" />
+</a>
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api?username=joyfulbean&theme=tokyonight&show_icons=true" width="42%" />
+</a>
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joyfulbean&theme=nord_dark)
