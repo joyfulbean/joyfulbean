@@ -55,12 +55,11 @@ Here are some ideas to get you started:
 </div><br>
 
 
-
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joyfulbean&exclude_repo=null&layout=compact&theme=tokyonight" />
-</a>
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api?username=joyfulbean&theme=tokyonight&show_icons=true" width="42%" />
+</a>
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joyfulbean&exclude_repo=null&layout=compact&theme=tokyonight" />
 </a>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joyfulbean&theme=nord_dark)
