@@ -54,9 +54,8 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/></a>
 </div><br>
 
-
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=joyfulbean&theme=tokyonight&show_icons=true" width="42%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=joyfulbean&theme=tokyonight&show_icons=true" />
 </a>
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joyfulbean&exclude_repo=null&layout=compact&theme=tokyonight" />
