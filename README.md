@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <div align=center>
 
-[![Notion Badge](http://img.shields.io/badge/-Resume-black?style=flat-square&logo=notion&link=https://velog.io/@joyfulbean/about)](https://velog.io/@joyfulbean/about)
+[![Notion Badge](http://img.shields.io/badge/-Resume-black?style=flat-square&logo=notion&link=https://velog.io/@joyfulbean/about)](https://sixth-system-ad3.notion.site/2023-12-31fc3a4a4e2d4a1bbbbcb0aab89ff99c)
 [![Tstory Badge](http://img.shields.io/badge/-Tech%20Blog-20C997?style=flat-square&link=https://velog.io/@joyfulbean)](https://velog.io/@joyfulbean)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joyfuldeveloper4@gmail.com)](mailto:joyfuldeveloper4@gmail.com)
 	
