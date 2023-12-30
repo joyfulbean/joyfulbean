@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 ## Work Experience 🔭
 
-* LG U+ 2021.9 ~
+* LG U+ DevOps Engineer 2021.9 ~
 * Deep Learning Lab 2020.03 ~ 2021.9
 * DeepBio Internship 2020.12 ~ 2021.2
 * People Space in Irvine Internship 2020.1 ~ 2020.2
@@ -56,3 +56,5 @@ Here are some ideas to get you started:
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joyfulbean&show_icons=true&theme=react)](https://github.com/joyfulbean/github-readme-stats)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joyfulbean&theme=nord_dark)
