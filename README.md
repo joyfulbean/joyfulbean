@@ -29,11 +29,12 @@ Here are some ideas to get you started:
 ## Introduction [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjoyfulbean%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 	
 * My change is the beginning of changing the world🌱 <br>
-* 👋 I'm Yebin Kang, who is interested in DevOps Engineering !
+* 👋 I'm Yebin Kang, 2nd-year DevOps engineer at LG U+
+* I am interested in Public Cloud best practices.
 
 ## Work Experience 🔭
 
-* LG U+ DevOps Engineer 2021.9 ~
+* LG U+ 2021.9 ~
 * Deep Learning Lab 2020.03 ~ 2021.9
 * DeepBio Internship 2020.12 ~ 2021.2
 * People Space in Irvine Internship 2020.1 ~ 2020.2
@@ -54,8 +55,6 @@ Here are some ideas to get you started:
 </div><br>
 
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joyfulbean&show_icons=true&theme=react)](https://github.com/joyfulbean/github-readme-stats)
 
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joyfulbean&exclude_repo=null&layout=compact&theme=tokyonight" />
